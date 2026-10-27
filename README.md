@@ -21,14 +21,14 @@ Projects are organized by graduating cohort, batch, and team. Each team has its 
 | A8 | NexusFlow | Ms Anupama E S | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A8-NexusFlow) |
 | A9 | CrisisAI | Ms Gopika Binil | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A9-CrisisAI) |
 | A10 | EchoTrace | Ms Anusree M Nair | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A10-EchoTrace) |
-| A11 | SARVision | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A11-SARVision) |
-| A12 | Priorix | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A12-Priorix) |
-| A13 | Signify | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A13-Signify) |
-| A14 | AgriSphere | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A14-AgriSphere) |
-| A15 | RefactorX | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A15-RefactorX) |
-| A16 | VaakMitra | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A16-VaakMitra) |
-| A17 | Spectra Shield AI | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A17-Spectra-Shield-AI) |
-| A18 | RouteMatch | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A18-RouteMatch) |
+| A11 | SARVision | Ms Anupama E S | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A11-SARVision) |
+| A12 | Priorix | Ms Anjana B | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A12-Priorix) |
+| A13 | Signify | Ms Umasree A K | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A13-Signify) |
+| A14 | AgriSphere | Ms Ramya Raj K P | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A14-AgriSphere) |
+| A15 | RefactorX | Ms Neethu C S | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A15-RefactorX) |
+| A16 | VaakMitra | Ms Jucy Vareed | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A16-VaakMitra) |
+| A17 | Spectra Shield AI | Ms Jucy Vareed | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A17-Spectra-Shield-AI) |
+| A18 | RouteMatch | Mr Mohammed Ali Shihab | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A18-RouteMatch) |
 
 ### Batch B
 
