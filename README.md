@@ -18,9 +18,9 @@ Projects are organized by graduating cohort, batch, and team. Each team has its 
 | A5 | AccessGuard | Dr.Sajay K R | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A5-AccessGuard) |
 | A6 | SafeStride | Ms Anjana B | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A6-SafeStride) |
 | A7 | ResQ | Dr. Sunitha C| [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A7-ResQ) |
-| A8 | NexusFlow | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A8-NexusFlow) |
-| A9 | CrisisAI | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A9-CrisisAI) |
-| A10 | EchoTrace | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A10-EchoTrace) |
+| A8 | NexusFlow | Ms Anupama E S | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A8-NexusFlow) |
+| A9 | CrisisAI | Ms Gopika Binil | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A9-CrisisAI) |
+| A10 | EchoTrace | Ms Anusree M Nair | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A10-EchoTrace) |
 | A11 | SARVision | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A11-SARVision) |
 | A12 | Priorix | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A12-Priorix) |
 | A13 | Signify | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A13-Signify) |
