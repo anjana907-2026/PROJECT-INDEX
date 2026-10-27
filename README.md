@@ -12,9 +12,9 @@ Projects are organized by graduating cohort, batch, and team. Each team has its 
 | Team ID | Project Name | Project Guide | Repository |
 |---|---|---|---|
 | A1 | AegisSys | Jitha P V | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A1-AegisSys) |
-| A2 | TrustLens | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A2-TrustLens) |
-| A3 | GreenNLP | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A3-GreenNLP) |
-| A4 | GovPrep AI | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A4-GovPrep-AI) |
+| A2 | TrustLens | Mr Mohammed Ali Shihab | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A2-TrustLens) |
+| A3 | GreenNLP | Dr. Sanaj M S | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A3-GreenNLP) |
+| A4 | GovPrep AI | Ms Reshma Thomas  | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A4-GovPrep-AI) |
 | A5 | AccessGuard | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A5-AccessGuard) |
 | A6 | SafeStride | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A6-SafeStride) |
 | A7 | ResQ | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A7-ResQ) |
